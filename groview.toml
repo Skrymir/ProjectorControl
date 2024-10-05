@@ -1,4 +1,4 @@
-{[protocols]]
+[[protocols]]
 name = "groview"
 protocol = "nec"
 variant = "nec"
