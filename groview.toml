@@ -1,0 +1,6 @@
+{[protocols]]
+name = "groview"
+protocol = "nec"
+variant = "nec"
+[protocols.scancodes]
+0x80b = "KEY_POWER"
